@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "17UfiLTogP2JWWcxitVODL5/3fOBH6sfyzuK6z7A8FkEce2j/9ZeHVt2TEFmg3PW6WEk1Eb+nW3tXafv+FihEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YUNUS EMRE\\Desktop\\YunusEmreUludağ_215040040_Midterm_GameProgramming2\\YunusEmreUludağ_215040040_Midterm_GameProgramming2\\YunusEmreUludağ_215040040_Midterm_GameProgramming2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YUNUS EMRE\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\YUNUS EMRE\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\YUNUS EMRE\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
